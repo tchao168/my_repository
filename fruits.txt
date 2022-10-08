@@ -1,7 +1,7 @@
 add some fruits below
-    apple
-    banana
-    tomato
+    3  apple
+    2 banana
+    1 tomato
     more fruits......
      blueberry
         strawberry
